@@ -22,7 +22,12 @@ Objetivo - Prospecção de série histórica relacionada a ativos fixos e variá
 
 ### 💻 Foco Principal
 
+
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+          
 
 ### 📞 Contato
 
