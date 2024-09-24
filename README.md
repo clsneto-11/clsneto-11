@@ -20,6 +20,10 @@ Objetivo - Prospecção de série histórica relacionada a ativos fixos e variá
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clsneto-11/Mercado-de-Investimentos)
 
+### 💻 Foco Principal
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
 ### 📞 Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celso-neto-40b8772a9)
