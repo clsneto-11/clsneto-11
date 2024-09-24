@@ -25,7 +25,8 @@ Objetivo - Prospecção de série histórica relacionada a ativos fixos e variá
 <div display="inline">
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-<i width="50" height="50 class="devicon-jupyter-plain-wordmark colored"></i>
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+          
                     
 
 ### 📞 Contato
