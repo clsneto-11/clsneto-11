@@ -14,9 +14,9 @@ Por isso, tenho como principal objetivo, confeccionar, interpretar e realizar in
 
 Aqui você encontrará meus principais projetos e análises, focados na construção e interpretação de datasets relacionados à Economia.
 
-Projeto 001 - Análise de Mercado de Investimentos
+Projeto 001 - *Em processo*
 
-Objetivo - Prospecção de série histórica relacionada a ativos fixos e variáveis no Mercado de Investimentos brasileiro
+Objetivo - *Em processo*
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clsneto-11/Mercado-de-Investimentos)
 
